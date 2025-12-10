@@ -9,3 +9,9 @@
 I added the differet types of markdown headers showing their sizes
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+const name = "Ayotunde";
+
+console.log(name); // Ayotunde
+```
