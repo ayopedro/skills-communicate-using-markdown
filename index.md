@@ -15,3 +15,7 @@ const name = "Ayotunde";
 
 console.log(name); // Ayotunde
 ```
+
+- [ ] Learn more about GitHub
+- [ ] Become better with GitHub commands
+- [ ] Contribute more to Open Source Projects
